@@ -1,3 +1,6 @@
+button {
+  background: linear-gradient(red, yellow)
+}
 img {
   align-items: center;
 }
